@@ -14,3 +14,20 @@ C:\Users\Rishabh\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows
 C:\Users\Rishabh\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\Rishabh\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Rishabh\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Rishabh\Desktop\7th sem fodenge\share over wifi\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

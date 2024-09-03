@@ -122,7 +122,7 @@ namespace WinFormsApp1
                         return;
                     }
 
-                    string url = $"https://{myIP}:5000/download/";
+                    string url = $"http://{myIP}:5000/download/";
                     listener.Prefixes.Add(url);
                     listener.Start();
 
@@ -138,7 +138,6 @@ namespace WinFormsApp1
                     while (listener.IsListening)
                     {
                         HttpListenerContext context = listener.GetContext();
-                        MessageBox.Show("listenin");
                         ProcessRequest(context, sharedFile);
                     }
                 }
@@ -175,7 +174,6 @@ namespace WinFormsApp1
 
         private void ProcessRequest(HttpListenerContext context, string sharedFile)
         {
-            MessageBox.Show("post process");
             try
             {
                 if (File.Exists(sharedFile))
