@@ -56,10 +56,14 @@ To get started with the project:
 4. **Sometimes browser block downloading in client because of security reasons**
 
 ## Images
-Windows Form App
+**Windows Form App**
+
 ![Screenshot 2024-09-03 163627](https://github.com/user-attachments/assets/1e32b1ee-0256-43f5-b75d-b6493cc41f4c)
 
-Python exe 
+
+
+**Python exe**
+
 ![Screenshot 2024-09-03 164018](https://github.com/user-attachments/assets/b2d4ee90-fe7c-45e3-9f21-b03aa94c862f)
 
 
